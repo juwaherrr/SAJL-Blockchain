@@ -29,4 +29,4 @@ This allows families to protect and authenticate their cultural artifacts across
 
 ## Vision  
 To make digital preservation more **authentic, secure, and family-owned**,  
-ensuring that cultural data remains under community control — not platform control.
+ensuring that cultural data remains under community control, not platform control.
