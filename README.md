@@ -1,4 +1,4 @@
-# SAJL — Secure Archive for Jazeera Lineage  
+# SAJL — Secure Archive for Qatari Lineage  
 *67-404 Behavioral Security | Group 3 (Aisha, Juwaher, Fatma, Shareefa)*
 
 ##  Overview  
