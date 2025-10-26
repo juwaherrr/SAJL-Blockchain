@@ -1,5 +1,5 @@
 # SAJL — Secure Archive for Qatari Lineage
-*67-404 Behavioral Security | Group 3 (Aisha, Juwaher, Fatma, Shareefa)*
+*67-404 Blockchain | Group 3 (Aisha, Juwaher, Fatma, Shareefa)*
 
 ##  Overview  
 SAJL (which means "record" or "witness" in Arabic) is a blockchain-based platform designed to preserve Qatari family heritage.  
