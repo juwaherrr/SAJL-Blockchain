@@ -24,8 +24,8 @@ This allows families to protect and authenticate their cultural artifacts across
 - **Shareefa AlSulaiti** — UX & Design Lead  
 
 ## Links  
-**Board:** To be created in Sprint 3  
-**Demo:** Prototype to follow after repo setup  
+**Board:** https://github.com/users/juwaherrr/projects/1
+**Demo:** https://www.figma.com/design/itKoRHPCF69QsfTmoDa9TR/66182-Term-Project-Demo?node-id=114-22464
 
 ## Vision  
 To make digital preservation more **authentic, secure, and family-owned**,  
