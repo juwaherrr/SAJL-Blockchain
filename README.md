@@ -3,7 +3,7 @@
 
 ##  Overview  
 SAJL (which means "record" or "witness" in Arabic) is a blockchain-based platform designed to preserve Qatari family heritage.  
-The goal is to digitally record traditional items — such as swords, jewelry, abayas, falconry tools, and oral stories — as verified NFTs.  
+The goal is to digitally record traditional items, such as swords, jewelry, abayas, falconry tools, and oral stories, as verified NFTs.  
 This allows families to protect and authenticate their cultural artifacts across generations while maintaining privacy and ownership.
 
 ## Current Sprint (Sprint 2)  
