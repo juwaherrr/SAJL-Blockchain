@@ -12,7 +12,8 @@ Output confirmed:
 Broadcast transaction recorded in `/broadcast/Deploy.s.sol`  
 Contract verified with `cast code` command.  
 
-Screenshots included:
-- `anvil_execution_log.png`
-- `forge_deploy_output.png`
-- `cast_code_verification.png`
+### Screenshots
+
+![Anvil Execution Log](./anvil_execution_log.png)
+![Forge Deploy Proof](./forge_deploy_proof.png)
+![Cast Code Verification](./cast_code_verification.png)
