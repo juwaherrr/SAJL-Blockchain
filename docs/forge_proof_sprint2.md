@@ -13,7 +13,6 @@ Broadcast transaction recorded in `/broadcast/Deploy.s.sol`
 Contract verified with `cast code` command.  
 
 Screenshots included:
-- `forge_build_success.png`
+- `anvil_execution_log.png`
 - `forge_deploy_output.png`
 - `cast_code_verification.png`
-- `onchain_execution_complete.png`
