@@ -13,23 +13,23 @@ The sequence demonstrates artifact creation, proposal, multi-approval workflow, 
 
 ### Execution Steps
 
-1️⃣ **Compile AttestationHub**
+**Compile AttestationHub**
 ![Compile AttestationHub](0compile_AttestationHub.png)
 
-2️⃣ **Create Artifact**
+**Create Artifact**
 ![Create Artifact](1createArtifact.png)
 
-3️⃣ **Propose Update**
+**Propose Update**
 ![Propose Update](2proposeUpdate.png)
 
-4️⃣ **First Approval**
+**First Approval**
 ![First Approval](3approveUpdate (first approval).png)
 
-5️⃣ **Second Approval**
+**Second Approval**
 ![Second Approval](4approveUpdate (second approval).png)
 
-6️⃣ **Finalize Update**
+**Finalize Update**
 ![Finalize Update](5finalizeUpdate.png)
 
-7️⃣ **Verify Artifact State**
+**Verify Artifact State**
 ![Verify Artifact State](6verifyArtifactState.png)
