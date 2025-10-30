@@ -1,6 +1,5 @@
 # Sprint 2 — Forge Deployment Proof (Foundry / Anvil)
 
-**Executed by:** Aisha AlMuhannadi  
 **Platform:** Foundry (Anvil local blockchain)  
 **Chain ID:** 31337  
 **Contract Address:** `0x5FbDB2315678afecb367f032d93F642f64180aa3`  
