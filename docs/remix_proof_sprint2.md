@@ -26,7 +26,7 @@ The sequence demonstrates artifact creation, proposal, multi-approval workflow, 
 ![First Approval](3approveUpdate_firstapproval.png)
 
 **Second Approval**
-![Second Approval](4approveUpdate (second approval).png)
+![Second Approval](4approveUpdate_secondapproval.png)
 
 **Finalize Update**
 ![Finalize Update](5finalizeUpdate.png)
