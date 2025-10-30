@@ -13,7 +13,6 @@ Broadcast transaction recorded in `/broadcast/Deploy.s.sol`
 Contract verified with `cast code` command.  
 
 ### Screenshots
-
-![Anvil Execution Log](./anvil_execution_log.png)
 ![Forge Deploy Proof](./forge_deploy_proof.png)
+![Anvil Execution Log](./anvil_execution_log.png)
 ![Cast Code Verification](./cast_code_verification.png)
