@@ -18,10 +18,11 @@ This allows families to protect and authenticate their cultural artifacts across
 /docs → Reports, sprint check-ins, and proposals  
 
 ## Team Members  
-- **Aisha Al-Muhannadi** — Smart Contract Lead  
-- **Juwaher Naqadan** — PM & Documentation Lead  
-- **Fatma AlMulla** — Privacy & Policy Lead  
-- **Shareefa AlSulaiti** — UX & Design Lead  
+- **Aisha Al-Muhannadi** — Smart Contract & Deployment Lead  
+- **Juwaher Naqadan** — Documentation & Smart Contract Contributor  
+- **Shareefa AlSulaiti** — Privacy & Policy Lead  
+- **Fatma AlMulla** — UX & Design Lead  
+
 
 ## Links  
 **Board:** https://github.com/users/juwaherrr/projects/1  
