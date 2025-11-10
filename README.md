@@ -33,7 +33,7 @@ ensuring that cultural data remains under community control, not platform contro
 
 ---
 
-### ⚙️ Foundry Build & Deployment
+### Foundry Build & Deployment
 
 To compile and deploy SAJL smart contracts on the Ethereum Sepolia testnet:
 
