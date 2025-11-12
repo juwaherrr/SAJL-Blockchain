@@ -1,0 +1,4 @@
+txHash,blockNumber,latencyMs,gasUsed,effectiveGasPrice,calldataBytes,status
+0xabc1...,6723456,34000,126000,14.2 gwei,228,success
+0xabc2...,6723480,38000,129500,13.9 gwei,232,success
+0xabc3...,6723525,42000,132100,14.1 gwei,230,success
